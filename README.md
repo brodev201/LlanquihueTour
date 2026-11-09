@@ -45,7 +45,7 @@ El modelo aplica los principios de la Programación Orientada a Objetos:
 1. Clona el repositorio:
 
 ```bash
-git clone [Pega aquí el enlace del repositorio](https://github.com/brodev201/LlanquihueTour).git
+git clone (https://github.com/brodev201/LlanquihueTour).git
 ```
 
 2. Abre la carpeta del proyecto en IntelliJ IDEA.
