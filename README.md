@@ -62,6 +62,7 @@ java -cp out app.Main
 ---
 
 **Repositorio GitHub:** https://github.com/brodev201/LlanquihueTour
+
 **Fecha de entrega:** 08/11/2026
 
 © Duoc UC | Escuela de Informática y Telecomunicaciones
